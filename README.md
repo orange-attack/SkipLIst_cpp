@@ -11,8 +11,7 @@
 
 * main.cpp 包含skiplist.h使用跳表进行数据操作
 * skiplist.h 跳表核心实现
-* README.md 中文介绍    
-* README-en.md 英文介绍       
+* README.md 中文介绍         
 * bin 生成可执行文件目录 
 * makefile 编译脚本
 * store 数据落盘的文件存放在这个文件夹 
