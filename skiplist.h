@@ -74,7 +74,7 @@ template<typename K, typename V>
 void Node<K, V>::set_value(V value) {
     this->value=value;
 };
-
+            
 // 跳表类
 template <typename K, typename V> 
 class SkipList {
